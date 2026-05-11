@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+numpy
+scikit-learn
+python-multipart
+mysql-connector-python
